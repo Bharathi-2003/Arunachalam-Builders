@@ -126,7 +126,9 @@ ul ol {
 dt {
   font-weight: 700;
 }
-
+hr{
+  color: #3d0c20;
+}
 dd {
   margin-bottom: .5rem;
   margin-left: 0;
@@ -11210,7 +11212,7 @@ textarea.form-control {
 }
 
 .navbar .navbar-brand img {
-  width: 60%;
+  width: 50%;
 }
 
 .navbar .nav-link {
@@ -11219,14 +11221,15 @@ textarea.form-control {
 }
 
 .navbar.custom-navbar {
- background-color: #ffb542bf;
+ background-color: #ffff;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
 
 .navbar.custom-navbar .nav-link {
   color: #000;
-  margin: 0 6px;
+margin: 0px 6px
+
 }
 
 .navbar.custom-navbar .nav-link:hover {
@@ -11624,7 +11627,7 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(../imgs/section.jpg) no-repeat center top fixed;
+  background: url(../imgs/header.jpg) no-repeat center top fixed;
   background-size: cover;
   color: #fff;
 }
@@ -11689,7 +11692,7 @@ textarea.form-control {
 .portfolio-section .filters a.active {
   opacity: 1;
   border-radius: 100px;
-  background: #cc0066;
+  background: #490225;
   color: #fff;
 }
 
@@ -11712,7 +11715,7 @@ textarea.form-control {
   left: 200%;
   width: 100%;
   height: 100%;
-  background: rgba(255, 110, 66, 0.8);
+  background: #4e2133bd;
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
